@@ -4,6 +4,10 @@ StopTextSpam is an experimental Android companion app that tries to quiet unwant
 
 This is a companion to a messaging app, not a replacement SMS app. It cannot prevent receipt or delete messages, and notification suppression is not guaranteed. Review blocked messages in the app, since classifier errors can hide legitimate notifications.
 
+## Screenshot
+
+<img src="docs/app-screenshot.png" alt="StopTextSpam running on Android" width="360">
+
 ## Build and use
 
 Install JDK 17 and Android SDK 35, then run `./gradlew assembleDebug` (or `./gradlew.bat assembleDebug` on Windows). Android Studio also works. The build does not require an API key.
