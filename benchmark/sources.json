@@ -1,0 +1,140 @@
+{
+  "sources": [
+    {
+      "id": "ftc_top_text_2024",
+      "title": "New FTC Data Show Top Text Message Scams of 2024",
+      "publisher": "Federal Trade Commission",
+      "published": "2025-04-14",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/04/new-ftc-data-show-top-text-message-scams-2024-overall-losses-text-scams-hit-470-million",
+      "used_for": ["delivery", "employment", "financial", "toll_government", "wrong_number_social"]
+    },
+    {
+      "id": "ftc_unexpected_text_2025",
+      "title": "Is that unexpected text a scam?",
+      "publisher": "Federal Trade Commission",
+      "published": "2025-04-22",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2025/04/unexpected-text-scam",
+      "used_for": ["delivery", "financial", "employment", "toll_government", "wrong_number_social"]
+    },
+    {
+      "id": "ftc_delivery_2025",
+      "title": "Think that text message is from USPS? It could be a scam",
+      "publisher": "Federal Trade Commission",
+      "published": "2025-04-03",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2025/04/think-text-message-usps-it-could-be-scam",
+      "used_for": ["delivery"]
+    },
+    {
+      "id": "uspis_smishing_2025",
+      "title": "Smishing: Package Tracking Text Scams",
+      "publisher": "United States Postal Inspection Service",
+      "published": "2025-05-19",
+      "url": "https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams",
+      "used_for": ["delivery"]
+    },
+    {
+      "id": "usps_tracking_faq",
+      "title": "USPS Text Tracking FAQs",
+      "publisher": "United States Postal Service",
+      "published": null,
+      "url": "https://www.usps.com/sms-tracking/",
+      "used_for": ["delivery"]
+    },
+    {
+      "id": "ftc_tolls_2025",
+      "title": "Got a text about unpaid tolls? It is probably a scam",
+      "publisher": "Federal Trade Commission",
+      "published": "2025-01-09",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2025/01/got-text-about-unpaid-tolls-its-probably-scam",
+      "used_for": ["toll_government"]
+    },
+    {
+      "id": "ftc_jobs_2025",
+      "title": "Job scammers are looking to hire you",
+      "publisher": "Federal Trade Commission",
+      "published": "2025-07-15",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2025/07/job-scammers-are-looking-hire-you",
+      "used_for": ["employment"]
+    },
+    {
+      "id": "ftc_task_scams_2024",
+      "title": "Paying to get paid: gamified job scams drive record losses",
+      "publisher": "Federal Trade Commission",
+      "published": "2024-12-12",
+      "url": "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2024/12/paying-get-paid-gamified-job-scams-drive-record-losses",
+      "used_for": ["employment"]
+    },
+    {
+      "id": "fbi_official_impersonation_2025",
+      "title": "Senior US Officials Impersonated in Malicious Messaging Campaign",
+      "publisher": "FBI Internet Crime Complaint Center",
+      "published": "2025-05-15",
+      "url": "https://www.ic3.gov/PSA/2025/PSA250515",
+      "used_for": ["wrong_number_social", "account_security"]
+    },
+    {
+      "id": "irs_dirty_dozen_2026",
+      "title": "A deeper dive into the Dirty Dozen",
+      "publisher": "Internal Revenue Service",
+      "published": "2026-03-19",
+      "url": "https://www.irs.gov/newsroom/a-deeper-dive-into-the-dirty-dozen-taxpayers-stay-alert-in-peak-filing-season",
+      "used_for": ["toll_government", "account_security"]
+    },
+    {
+      "id": "irs_legit_texts_2026",
+      "title": "Text messages from the IRS",
+      "publisher": "Internal Revenue Service",
+      "published": "2026-05-11",
+      "url": "https://www.irs.gov/privacy-disclosure/text-messages-from-the-irs",
+      "used_for": ["toll_government", "account_security"]
+    },
+    {
+      "id": "cfpb_bank_verify_2024",
+      "title": "I received a text from my bank asking me to verify account information",
+      "publisher": "Consumer Financial Protection Bureau",
+      "published": "2024-04-15",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/i-received-an-email-from-my-bank-or-credit-union-asking-me-to-verify-my-account-information-what-should-i-do-en-999/",
+      "used_for": ["financial", "account_security"]
+    },
+    {
+      "id": "benchmark_synthetic",
+      "title": "Synthetic operational and personal-message controls",
+      "publisher": "StopTextSpam benchmark",
+      "published": "2026-08-05",
+      "url": null,
+      "used_for": ["all ham controls", "political_marketing", "commerce_appointments"]
+    },
+    {
+      "id": "fcc_unwanted_texts",
+      "title": "Unwanted Calls/Texts - Phone",
+      "publisher": "Federal Communications Commission",
+      "published": null,
+      "url": "https://consumercomplaints.fcc.gov/hc/en-us/articles/115002234203-Unwanted-Calls-Texts-Phone",
+      "used_for": ["political stress suite", "unwanted robotext policy"]
+    },
+    {
+      "id": "fcc_consent_revocation_2024",
+      "title": "Rules governing revocation of consent for robocalls and robotexts",
+      "publisher": "Federal Communications Commission",
+      "published": "2024-02-16",
+      "url": "https://docs.fcc.gov/public/attachments/FCC-24-24A1.pdf",
+      "used_for": ["political stress suite", "STOP and opt-out patterns"]
+    },
+    {
+      "id": "ctia_political_texts_2024",
+      "title": "This Election Season, Make Sure You Are Sending Political Texts Consumers Want to Receive",
+      "publisher": "CTIA",
+      "published": "2024-06-18",
+      "url": "https://www.ctia.org/news/this-election-season-make-sure-youre-sending-political-texts-consumers-want-to-receive",
+      "used_for": ["political stress suite", "campaign outreach patterns"]
+    },
+    {
+      "id": "repo_political_examples",
+      "title": "Existing StopTextSpam political test messages",
+      "publisher": "StopTextSpam repository",
+      "published": null,
+      "url": null,
+      "used_for": ["political stress suite", "US and Filipino political outreach"]
+    }
+  ]
+}

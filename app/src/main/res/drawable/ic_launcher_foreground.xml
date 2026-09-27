@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield shape - bold, protective -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M54,20
+            L26,33
+            C25.4,33.3 25,34.1 25,35
+            L25,52
+            C25,66.5 37.5,80 54,85
+            C70.5,80 83,66.5 83,52
+            L83,35
+            C83,34.1 82.6,33.3 82,33
+            Z" />
+
+    <!-- Shield inner area (green cutout for border effect) -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="
+            M54,25.5
+            L30.5,36.5
+            L30.5,52
+            C30.5,64 41,75.5 54,80
+            C67,75.5 77.5,64 77.5,52
+            L77.5,36.5
+            Z" />
+
+    <!-- SMS/Chat bubble inside the shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M41,43
+            L67,43
+            C69.2,43 71,44.8 71,47
+            L71,59
+            C71,61.2 69.2,63 67,63
+            L49,63
+            L43,69
+            L43,63
+            L41,63
+            C38.8,63 37,61.2 37,59
+            L37,47
+            C37,44.8 38.8,43 41,43
+            Z" />
+
+    <!-- Dot 1 in bubble -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="
+            M46.5,53
+            A2.5,2.5 0 1,1 51.5,53
+            A2.5,2.5 0 1,1 46.5,53
+            Z" />
+
+    <!-- Dot 2 in bubble -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="
+            M51.5,53
+            A2.5,2.5 0 1,1 56.5,53
+            A2.5,2.5 0 1,1 51.5,53
+            Z" />
+
+    <!-- Dot 3 in bubble -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="
+            M56.5,53
+            A2.5,2.5 0 1,1 61.5,53
+            A2.5,2.5 0 1,1 56.5,53
+            Z" />
+
+    <!-- Diagonal ban/slash line across the shield (bottom-left to top-right) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M33,73
+            L73,35
+            L76,38.5
+            L36,76.5
+            Z" />
+
+</vector>
